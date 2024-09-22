@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/yasserbnsayed" target="_blank"><img src="https://img.shields.io/badge/-Yasser%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-HTML5 - CSS3 - JS - Bootstrap - Sql Server - C# - OOP - Linq - Entity Framework Core - Asp.net - Asp.net MVC - Asp.net API - Solid Principles - Design Patterens - Clean Code - Git/GitHub
+HTML5 - CSS3 - JS - Bootstrap - Sql Server - C# - OOP - Linq - Entity Framework Core - Asp.net - Asp.net Core MVC - Asp.net Core API - Solid Principles - Design Patterens - Clean Code - Git/GitHub
 
 
 
