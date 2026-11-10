@@ -20,7 +20,7 @@ Full Stack .NET Developer specializing in **C#, ASP.NET Core, Angular and SQL Se
 - 🏥 Built hospital management and healthcare systems with ASP.NET Core and EF Core
 - 🧱 Experienced with Repository, Unit of Work, CQRS, DDD and Dependency Injection
 - 📊 Built dashboards and data visualizations with Power BI
-- 🎓 Graduate of the ITI Full Stack .NET Core Intensive Code Camp
+- 🎓 Graduate from Faculty of Computer Science and Artificial Intelligence
 - 💬 Ask me about C#, ASP.NET Core, EF Core, SQL Server, Clean Architecture or REST APIs
 - ☕ Fun fact: I'm a coffee enthusiast
 
