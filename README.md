@@ -17,10 +17,10 @@
 
 Full Stack .NET Developer specializing in **C#, ASP.NET Core, Angular and SQL Server**. I build robust web applications, RESTful APIs and dynamic user interfaces, with a strong focus on **Clean Architecture, SOLID principles and clean, maintainable code**. I aim to deliver secure, scalable and high-performance software that meets real business needs.
 
-- 🏥 Built hospital management and healthcare systems with ASP.NET Core and EF Core
+- 🏥 Built many systems with ASP.NET Core and EF Core
 - 🧱 Experienced with Repository, Unit of Work, CQRS, DDD and Dependency Injection
 - 📊 Built dashboards and data visualizations with Power BI
-- 🎓 Graduate from Faculty of Computer Science and Artificial Intelligence
+- 🎓 Graduated from Faculty of Computer Science and Artificial Intelligence
 - 💬 Ask me about C#, ASP.NET Core, EF Core, SQL Server, Clean Architecture or REST APIs
 - ☕ Fun fact: I'm a coffee enthusiast
 
