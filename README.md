@@ -64,39 +64,4 @@ Full Stack .NET Developer specializing in **C#, ASP.NET Core, Angular and SQL Se
 
 ---
 
-## 💼 Experience
-
-**Full Stack .NET Developer, Khabeer Group Company** *(Apr 2025 – Jun 2026)*
-- Developed and maintained hospital management and healthcare systems with ASP.NET Core, MVC and EF Core.
-- Designed scalable RESTful APIs and backend services following Clean Architecture.
-- Optimized database operations with SQL Server, LINQ and EF Core.
-- Built responsive UIs with Angular, JavaScript, jQuery, Bootstrap, HTML and CSS.
-
-**Backend .NET Developer, SoftTrend Company** *(May 2024 – Jan 2025)*
-- Built backend web applications and RESTful APIs with ASP.NET MVC, Web API, Entity Framework and SQL Server.
-- Applied OOP and design patterns such as Repository and Unit of Work.
-- Created interactive Power BI dashboards for data analysis and reporting.
-
----
-
-## 🚀 Featured Project
-
-### 🛒 [MyShop-ECommerce](https://github.com/yasserbnsayed/MyShop-ECommerce)
-A layered e-commerce web application built with ASP.NET Core MVC, EF Core and SQL Server. It has Identity authentication, an admin area and Stripe payments.
-
-`ASP.NET Core MVC` `EF Core` `SQL Server` `Stripe` `Bootstrap`
-
----
-
-## 🎓 Education
-
-- **Information Technology Institute (ITI)**: Full Stack Web Development using .NET Core (Intensive Code Camp), 2023
-- **Beni-Suef University**: Faculty of Computer Science and Artificial Intelligence, Information Technology, 2018 – 2022
-
-## 🌍 Languages
-
-Arabic (Native) · English (Professional)
-
----
-
 <p align="center">📫 Let's connect! Feel free to reach out on <a href="https://linkedin.com/in/yasserbnsayed">LinkedIn</a>.</p>
